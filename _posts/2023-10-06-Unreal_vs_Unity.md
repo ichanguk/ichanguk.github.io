@@ -37,6 +37,7 @@ tags: article
 |     에셋 시장             |     Market Place                                                                             |     Asset Store                                           |
 |     크로스 플랫폼         |     6개 (주로 PC와 콘솔 플랫폼)                                                              |     21개 이상의 플랫폼                                    |
 |     대표 게임 콘텐츠      |     Among Us, Fall Guys                                                                      |     ARK : Survival Evolved, PUBG                          |
+
 <br/>
   &nbsp;&nbsp;다음으로 표 2에서는 Unreal Engine과 Unity의 핵심 특징이라고 할 수 있는 사용 언어의 특징을 비교해서 볼 수 있다. 먼저 Unreal Engine은 C++을 사용한다(blueprint는 텍스트 기반이 아니기 때문에 비교 대상에서 제외함). C++은 저수준 언어로, 메모리 관리와 하드웨어 접근을 더 직접적으로 다루기 때문에 더 어렵지만 C#에 비해 빠르고, 복잡한 그래픽 및 물리 시뮬레이션을 처리하는 데 유용하다. 다음으로 Unity는 C#을 사용한다. Unity는 상대적으로 쉬운 문법을 제공한다. 따라서 간결한 코드 작성을 통해 빠른 개발 및 프로토타이핑이 가능하다. 그리고 Garbage Collector를 통해 메모리 관리가 자동화되기 때문에 메모리 관리에 신경 쓰지 않고 개발에 집중할 수 있어 생산성이 높다.
 
