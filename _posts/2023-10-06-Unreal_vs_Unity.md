@@ -37,6 +37,7 @@ tags: article
 |     에셋 시장             |     Market Place                                                                             |     Asset Store                                           |
 |     크로스 플랫폼         |     6개 (주로 PC와 콘솔 플랫폼)                                                              |     21개 이상의 플랫폼                                    |
 |     대표 게임 콘텐츠      |     Among Us, Fall Guys                                                                      |     ARK : Survival Evolved, PUBG                          |
+
 표1. Unreal Engine과 Unity의 특징 비교
 
 <br/>
@@ -53,6 +54,7 @@ tags: article
 |     생산성                |     낮음                     |     높음                              |
 |     크로스 플랫폼 개발    |     어려움                   |     용이함                            |
 |     학습 난이도           |     어려움                   |     쉬움                              |
+
 표2. Unreal Engine과 Unity의 사용 언어 비교(상대적인 기준)
 
 <br/>
@@ -65,6 +67,7 @@ tags: article
 |     Unity            |     48.76     |     46.12     |     49.19     |     49.48     |
 |     Unreal Engine    |     12.92     |     13.38     |     15.53     |     15.34     |
 |     Other            |     38.32     |     40.5      |     35.28     |     35.18     |
+
 표3. 연도별 Steam에 출시된 게임에 사용된 게임 엔진 비율(단위 : %, 게임 가격 $4.99 이상, 리뷰 50개 이상)[^3]
 
 <br/>
