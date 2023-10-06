@@ -32,11 +32,12 @@ tags: article
 |     사용 언어             |     C++, blueprint(비주얼 스크립팅)                                                          |     C#                                                    |
 |     소스 코드 공개여부    |     완성소스 코드 액세스 권한 요청 가능                                                      |     비공개                                                |
 |     지원 특성             |     실시간 렌더링,     열중재 기능                                                           |     풍부한 플러그인,     대규모 개발자 커뮤니티 보유      |
-|     사용 요금             |     기본적으로 무료,     게임 수익이 분기당 $1,000,000 USD를 초과한 경우   5% 로열티 지불    |     무료(personal),     월 $40(Plus),     월 $150(Pro)    |
+|     사용 요금             |     기본적으로 무료,     게임 수익이 분기당 $1,000,000 USD를 초과한 경우   5% 로열티 지불[^1]    |     무료(personal),     월 $40(Plus),     월 $150(Pro)[^2]    |
 |     선호되는 장르         |     Open-world 3D, AAA급 프로젝트                                                            |     2D game, 중소규모급 프로젝트                          |
 |     에셋 시장             |     Market Place                                                                             |     Asset Store                                           |
 |     크로스 플랫폼         |     6개 (주로 PC와 콘솔 플랫폼)                                                              |     21개 이상의 플랫폼                                    |
 |     대표 게임 콘텐츠      |     Among Us, Fall Guys                                                                      |     ARK : Survival Evolved, PUBG                          |
+표1. Unreal Engine과 Unity의 특징 비교
 
 <br/>
   &nbsp;&nbsp;다음으로 표 2에서는 Unreal Engine과 Unity의 핵심 특징이라고 할 수 있는 사용 언어의 특징을 비교해서 볼 수 있다. 먼저 Unreal Engine은 C++을 사용한다(blueprint는 텍스트 기반이 아니기 때문에 비교 대상에서 제외함). C++은 저수준 언어로, 메모리 관리와 하드웨어 접근을 더 직접적으로 다루기 때문에 더 어렵지만 C#에 비해 빠르고, 복잡한 그래픽 및 물리 시뮬레이션을 처리하는 데 유용하다. 다음으로 Unity는 C#을 사용한다. Unity는 상대적으로 쉬운 문법을 제공한다. 따라서 간결한 코드 작성을 통해 빠른 개발 및 프로토타이핑이 가능하다. 그리고 Garbage Collector를 통해 메모리 관리가 자동화되기 때문에 메모리 관리에 신경 쓰지 않고 개발에 집중할 수 있어 생산성이 높다.
@@ -52,6 +53,7 @@ tags: article
 |     생산성                |     낮음                     |     높음                              |
 |     크로스 플랫폼 개발    |     어려움                   |     용이함                            |
 |     학습 난이도           |     어려움                   |     쉬움                              |
+표2. Unreal Engine과 Unity의 사용 언어 비교(상대적인 기준)
 
 <br/>
 
@@ -63,7 +65,7 @@ tags: article
 |     Unity            |     48.76     |     46.12     |     49.19     |     49.48     |
 |     Unreal Engine    |     12.92     |     13.38     |     15.53     |     15.34     |
 |     Other            |     38.32     |     40.5      |     35.28     |     35.18     |
-
+표3. 연도별 Steam에 출시된 게임에 사용된 게임 엔진 비율(단위 : %, 게임 가격 $4.99 이상, 리뷰 50개 이상)[^3]
 
 <br/>
 
@@ -79,3 +81,7 @@ tags: article
 [1] 이한성, 류승택, 서상현, "유니티와 언리얼 엔진 4의 구조와 구현 방식 비교 연구," 컴퓨터그래픽스학회논문지, 2019, Vol. 25, No. 4, pp. 17-24.<br/>
 [2] 김정환, “방송미디어제작 산업과 게임기술의 융복합”, KCA 미디어 이슈 & 트렌드 기획 리포트”, 2022, Vol. 50.<br/>
 [3] Hitesh Sant, “Unreal vs. Unity – Which Is Better for Game Development?”, GEEKFLARE, 2023, https://geekflare.com/unreal-vs-unity/.
+
+[^1] 출처 : Unreal Engine 공식 사이트, https://www.unrealengine.com/ko/license
+[^2] 출처 : Unity 공식 사이트, https://unity.com/pricing
+[^3] 출처 : Lars Doucet, Anthony Pecorella, “Game engines on Steam: The definitive breakdown”, Game Developer, 2021, https://www.gamedeveloper.com/business/game-engines-on-steam-the-definitive-breakdown#close-modal.
