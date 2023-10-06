@@ -54,26 +54,29 @@ blockquote > :last-child {
 }
 table {
 	border-collapse: collapse;
-	border-spacing: 0;
+	text-align: left;
+	line-height: 1.5;
 }
-table th {
-    font-weight: 600;
-}
-table th, table td {
-    padding: 6px 13px;
-    border: 1px solid #d0d7de;
+table thead th {
 	text-align: center;
-	vertical-align: middle;
+	padding: 10px;
+	font-weight: bold;
+	vertical-align: top;
+	color: #1b3453;
+	border-top: 2px solid #1b3453;
+	border-bottom: 2px solid #1b3453;
 }
-table tr {
-    background-color: #ffffff;
-    border-top: 1px solid hsla(210,18%,87%,1);
+table tbody th {
+	padding: 10px 15px;
+	font-weight: bold;
+	vertical-align: top;
+	border-bottom: 1px solid #ccc;
+	background: #f3f6f7;
 }
-table tr:nth-child(2n) {
-    background-color: #f6f8fa;
-}
-table img {
-    background-color: transparent;
+table td {
+	padding: 10px 15px;
+	vertical-align: top;
+	border-bottom: 1px solid #ccc;
 }
 // Apply a natural box layout model to all elements
 // from: http://www.paulirish.com/2012/box-sizing-border-box-ftw/
