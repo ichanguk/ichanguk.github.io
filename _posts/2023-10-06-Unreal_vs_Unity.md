@@ -33,7 +33,7 @@ tags: article
 |     소스 코드 공개여부    |     완성소스 코드 액세스 권한 요청 가능                                                      |     비공개                                                |
 |     지원 특성             |     <span style="color:red">실시간 렌더링</span>,     열중재 기능                                                           |     풍부한 플러그인,     <span style="color:red">대규모 개발자 커뮤니티 보유</span>      |
 |     사용 요금             |     기본적으로 무료,     게임 수익이 분기당 $1,000,000 USD를 초과한 경우   5% 로열티 지불[^1]    |     무료(personal),     월 $40(Plus),     월 $150(Pro)[^2]    |
-|     선호되는 장르         |     Open-world 3D, <span style="color:red">AAA급</span> 프로젝트                                                            |     2D game, 중소규모급 프로젝트                          |
+|     선호되는 장르         |     Open-world 3D, <span style="color:red">AAA급 프로젝트</span>                                                            |     2D game, 중소규모급 프로젝트                          |
 |     에셋 시장             |     Market Place                                                                             |     Asset Store                                           |
 |     크로스 플랫폼         |     6개 (주로 PC와 콘솔 플랫폼)                                                              |     <span style="color:red">21개 이상의 플랫폼</span>                                    |
 |     대표 게임 콘텐츠      |     Among Us, Fall Guys                                                                      |     ARK : Survival Evolved, PUBG                          |
