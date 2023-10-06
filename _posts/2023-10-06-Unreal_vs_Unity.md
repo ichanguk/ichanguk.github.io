@@ -32,7 +32,7 @@ tags: article
 |     사용 언어             |     C++, blueprint(비주얼 스크립팅)                                                          |     C#                                                    |
 |     소스 코드 공개여부    |     완성소스 코드 액세스 권한 요청 가능                                                      |     비공개                                                |
 |     지원 특성             |     실시간 렌더링,     열중재 기능                                                           |     풍부한 플러그인,     대규모 개발자 커뮤니티 보유      |
-|     사용 요금             |     기본적으로 무료,     게임 수익이 분기당 $1,000,000 USD를 초과한 경우   5% 로열티 지불[^scala]    |     무료(personal),     월 $40(Plus),     월 $150(Pro)[^scala]    |
+|     사용 요금             |     기본적으로 무료,     게임 수익이 분기당 $1,000,000 USD를 초과한 경우   5% 로열티 지불[^1]    |     무료(personal),     월 $40(Plus),     월 $150(Pro)[^2]    |
 |     선호되는 장르         |     Open-world 3D, AAA급 프로젝트                                                            |     2D game, 중소규모급 프로젝트                          |
 |     에셋 시장             |     Market Place                                                                             |     Asset Store                                           |
 |     크로스 플랫폼         |     6개 (주로 PC와 콘솔 플랫폼)                                                              |     21개 이상의 플랫폼                                    |
@@ -68,7 +68,7 @@ tags: article
 |     Unreal Engine    |     12.92     |     13.38     |     15.53     |     15.34     |
 |     Other            |     38.32     |     40.5      |     35.28     |     35.18     |
 
-표3. 연도별 Steam에 출시된 게임에 사용된 게임 엔진 비율(단위 : %, 게임 가격 $4.99 이상, 리뷰 50개 이상)[^scala]
+표3. 연도별 Steam에 출시된 게임에 사용된 게임 엔진 비율(단위 : %, 게임 가격 $4.99 이상, 리뷰 50개 이상)[^3]
 
 <br/>
 
@@ -85,6 +85,6 @@ tags: article
 [2] 김정환, “방송미디어제작 산업과 게임기술의 융복합”, KCA 미디어 이슈 & 트렌드 기획 리포트”, 2022, Vol. 50.<br/>
 [3] Hitesh Sant, “Unreal vs. Unity – Which Is Better for Game Development?”, GEEKFLARE, 2023, https://geekflare.com/unreal-vs-unity/.
 
-[^scala] 출처 : Unreal Engine 공식 사이트, https://www.unrealengine.com/ko/license
-[^scala] 출처 : Unity 공식 사이트, https://unity.com/pricing
-[^scala] 출처 : Lars Doucet, Anthony Pecorella, “Game engines on Steam: The definitive breakdown”, Game Developer, 2021, https://www.gamedeveloper.com/business/game-engines-on-steam-the-definitive-breakdown#close-modal.
+[^1]: 출처 : Unreal Engine 공식 사이트, https://www.unrealengine.com/ko/license
+[^2]: 출처 : Unity 공식 사이트, https://unity.com/pricing
+[^3]: 출처 : Lars Doucet, Anthony Pecorella, “Game engines on Steam: The definitive breakdown”, Game Developer, 2021, https://www.gamedeveloper.com/business/game-engines-on-steam-the-definitive-breakdown#close-modal.
