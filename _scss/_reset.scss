@@ -35,21 +35,29 @@ ol, ul {
 	list-style: none;
 }
 blockquote, q {
-	quotes: none;
+	margin-top: 0;
+  	margin-bottom: 16px;
+	padding: 0 1em;
+	color: #57606a;
+	border-left: .25em solid #d0d7de;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
 	content: none;
 }
+blockquote > :first-child {
+	margin-top: 0;
+}
+blockquote > :last-child {
+	margin-bottom: 0;
+}
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-// Apply a natural box layout model to all elements
-// from: http://www.paulirish.com/2012/box-sizing-border-box-ftw/
-*, *:before, *:after {
-  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+table th {
+    font-weight: 600;
 }
 
 table th, table td {
@@ -70,4 +78,22 @@ table tr:nth-child(2n) {
 
 table img {
     background-color: transparent;
+}
+
+hr {
+	box-sizing: content-box;
+	overflow: hidden;
+	background: transparent;
+	border-bottom: 1px solid hsla(210,18%,87%,1);
+	height: .25em;
+	padding: 0;
+	margin: 24px 0;
+	background-color: #d0d7de;
+	border: 0;
+}
+
+// Apply a natural box layout model to all elements
+// from: http://www.paulirish.com/2012/box-sizing-border-box-ftw/
+*, *:before, *:after {
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
 }
